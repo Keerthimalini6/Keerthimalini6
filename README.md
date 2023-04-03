@@ -49,10 +49,16 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=keerthimalini6&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keerthimalini6&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthimalini6&show_icons=true&theme=dracula" align="center" /> 
+</div> 
 <br/>  
 
+## Github Trophies  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=keerthimalini6&theme=dracula" align="center" />
+</div> 
   
 
 <br/>  
