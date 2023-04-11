@@ -52,6 +52,7 @@
 </a>
 <a href="https://github.com/Keerthimalini6" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  
 </a>  
   
 
@@ -62,6 +63,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=keerthimalini6&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthimalini6&show_icons=true&theme=dracula" align="center" /> 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthimalini6&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" align="center" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keerthimalini6&theme=monokai" align="center" />
 </div> 
 <br/>  
 
