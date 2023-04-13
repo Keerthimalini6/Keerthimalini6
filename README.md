@@ -1,7 +1,7 @@
 ## <div align="center">Hello, I'm Keerthi malini👋</div>  
   
  
-## A Full Stack Web Developer, Looking forward to apply and enhance my skills and knowledge as a developer. 
+## A Diligent MERN Stack Developer,Eager to embrace opportunities that offer challenges and to build innovative, efficient, and user-friendly web application
   
 
 - 🌱 I’m currently learning Full Stack Web development in Masai school.  
